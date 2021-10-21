@@ -1,0 +1,3 @@
+java -jar signapk.jar certificate.pem key.pk8 [apkfilename].apk [apkfilename]-signed.apk
+
+java -jar signapk.jar certificate.pem key.pk8 apk.apk Dway_V2-2.apk
